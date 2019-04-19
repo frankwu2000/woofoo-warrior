@@ -1,0 +1,12 @@
+1. watch unity tutorial
+	1. 2D Physics
+	2. 2D Platformer Character Controller
+	3. Designing With 2D Tools
+	4. 2D World building w/ Tilemap & Cinemachine for 2D
+2. rewrite controller script
+
+3. add animation using warrior sprite
+
+4. background/platform map set up
+
+5. test
